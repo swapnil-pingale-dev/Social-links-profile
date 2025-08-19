@@ -49,6 +49,7 @@ body{
     width: 100%;
     border-radius: 50%;
     border: 0.5rem solid var(--accent-color);
+    background-color: var(--gray-700);
 }
 
 .dev-name{
